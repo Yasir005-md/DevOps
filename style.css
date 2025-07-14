@@ -1,0 +1,23 @@
+head
+
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #333;
+}
+  body
+  {
+    margin: 0;
+    background-color: cadetblue;
+    padding: 20px;
+    line-height: 1.6;
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    
+    height: 100vh;
+    
+
+}
